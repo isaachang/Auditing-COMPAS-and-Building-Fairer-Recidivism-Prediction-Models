@@ -1,4 +1,4 @@
-# Beyond the Black Box: Auditing COMPAS and Building Fairer Recidivism Prediction Models
+# Algorithmic Injustice: Racial Bias in America's Criminal Risk Assessment System
 
 **Author:** Wenhao Chang | **Course:** Machine Learning I — Final Project | **Date:** March 2026
 
